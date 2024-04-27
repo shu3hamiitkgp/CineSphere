@@ -6,6 +6,7 @@
 Movie recommendations using Knowledge Graphs and LLMs
 
 > [Codelabs Documentation](https://codelabs-preview.appspot.com/?file_id=1KAzKlqQ-GWZW9tSMoI07RWoFs0BkJ88tIaO6z5QGpnY#8)<br>
+> [Demo Video](https://youtu.be/cTaHir9VKwo)
 
 ## Introduction 
 
