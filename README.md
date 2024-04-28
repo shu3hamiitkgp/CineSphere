@@ -4,7 +4,7 @@
 
 # CineSphere
 Movie recommendations using Knowledge Graphs and LLMs
-
+> [Presentation Deck](https://docs.google.com/presentation/d/1pWwmmMVB0mc37e1FytzGUPX7GPrhgN1jyfla3H7M-zQ/edit?usp=sharing)<br>
 > [Codelabs Documentation](https://codelabs-preview.appspot.com/?file_id=1KAzKlqQ-GWZW9tSMoI07RWoFs0BkJ88tIaO6z5QGpnY#8)<br>
 > [Demo Video](https://youtu.be/cTaHir9VKwo)
 
@@ -54,3 +54,5 @@ OPENAI_API_KEY=''
 MOVIE_API_KEY=''
 MOVIE_API_TOKEN=''
 ```
+3) Download the Data from [here](https://drive.google.com/drive/folders/1dcAQ9Tu0ODFRIL1FXL9GC_-XJXpeI4vE). This would go into the import folder in the Neo4j project.
+4) To create and initialize the graph, and also create plot embeddings, you would need to use the `graph_intit()` function in `utils.py` module
